@@ -7,7 +7,13 @@
         "microphone": "*",
         "SuperBitV2": "github:yahboomtechnology/superbitlibv2#2dc96afd11a4510601a9c4f55b94ae4b1a6ec229",
         "servo": "*",
-        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.8"
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.8",
+        "audio-recording": "*",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.10",
+        "radio-broadcast": "*",
+        "GHBit": "github:yahboomtechnology/ghbitlib#888de80746a09e25150e25e63b6209f49c069ffd",
+        "Sound Level in decibels (dB)": "github:microbit-foundation/pxt-sound-level-db#v0.1.13",
+        "datalogger": "*"
     },
     "files": [
         "main.blocks",
@@ -22,7 +28,7 @@
         "branch": "stable8.0",
         "tag": "v8.0.16",
         "commits": "https://github.com/microsoft/pxt-microbit/commits/70751e3ce10c755c0c803f5669b12b52539ce5b0",
-        "target": "8.0.17",
+        "target": "8.0.18",
         "pxt": "12.0.16",
         "targetId": "microbit"
     },
